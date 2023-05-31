@@ -2,7 +2,8 @@
     "Prefix": "Put anything you want as bot's prefix.",
     "MainColor": "Put a #HexCode for embeds' color.",
     "ErrorColor": "Put a #HexCode for embeds that'll be sent when there is an error.",
-    "ClientID": "Put your Bot's/Client's ID.",
-    "Token": "Put your Bot's Token.",
-    "OpenAIapiKey": "Put your Open AI's API Key."
+    "ClientID": "1113413064889483264.",
+    "Token": "MTExMzQxMzA2NDg4OTQ4MzI2NA.G6XMw5.4CcB5mp3UW7iKNokv1_VuFCO4Dy4fx1UE-Kw7Y.",
+    "OpenAIapiKey": "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
+."
 }
